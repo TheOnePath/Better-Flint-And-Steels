@@ -49,8 +49,8 @@ influence on the mod.
 
 ### Links
 -Forge Installer Downloads: [https://files.minecraftforge.net/](https://files.minecraftforge.net "Forge Installer Downloads")
--Download Better Flint &amp; Steels: [https://minecraft.curseforge.com/](https://minecraft.curseforge.com/projects/better-flint-steels?gameCategorySlug=mc-mods&projectID=300407 "Better Flint & Steels Download v0.1.0")
 
+-Download Better Flint &amp; Steels: [https://minecraft.curseforge.com/](https://minecraft.curseforge.com/projects/better-flint-steels?gameCategorySlug=mc-mods&projectID=300407 "Better Flint & Steels Download v0.1.0")
 
 Issues and Recommendations are created in the Issue tab of this repository and not in the curseforge project comment section.
 Your Issue will be closed if the issue is no longer present, if your Recommendation has been added to the mod or if there is
