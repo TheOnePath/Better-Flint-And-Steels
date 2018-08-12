@@ -1,8 +1,8 @@
 # Better Flint &amp; Steels
 Issues and Recommendations here for Better Flint &amp; Steels
 
-**Current version on Curseforge and Twitch is v0.1.0.
-Next version will be v0.1.1 which will add a single item (subject to change).**
+**Current version on Curseforge and Twitch is v0.1.1.
+Next version will be v0.2.1 which will add a new item and sound (subject to change).**
 
 ## So what is this repository for?
 
