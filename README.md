@@ -1,8 +1,8 @@
 # Better Flint &amp; Steels
 Issues and Recommendations here for Better Flint &amp; Steels
 
-**Current version on Curseforge and Twitch is v0.2.1.
-Next version will be v0.3.4 which will add 2 new items, including an unbreakable item and easter egg (subject to change).**
+**Current version on Curseforge and Twitch is v0.3.4.
+Next version will be v0.9.4 which will give a few items AOE effects. This will be released on Saturday 18th August 2018 and will be the final update for 1.12.2 (subject to change).**
 
 ## So what is this repository for?
 
@@ -22,7 +22,7 @@ bugs that me be present in those versions of other mods.
 
 ### Making an Issue for the mod
 
-If the above is true and everything is fine, then there many be a bug may I am unaware of. 
+If the above is true and everything is fine, then there may be a bug I am unaware of. 
 Please follow the next few steps:
 - Please start off your issue with [Issue] so I know this is definitely an issue report.
 - Specify what isn't working, limitedly, after performing the first step.
