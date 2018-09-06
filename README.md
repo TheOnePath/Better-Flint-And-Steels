@@ -18,7 +18,7 @@ is listed for Build 1.12.2 - 14.23.4.2705 but the lastest version is fine as wel
 up-to-date version of Java 8 - and not before, don't have Java 6 installed.
 
 Another thing to check before making an Issue is to make sure all mods are up-to-date to prevent any conflicts or
-bugs that me be present in those versions of other mods.
+bugs that may be present in those versions of other mods.
 
 ### Making an Issue for the mod
 
