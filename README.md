@@ -1,8 +1,8 @@
 # Better Flint &amp; Steels
 Issues and Recommendations here for Better Flint &amp; Steels
 
-**Current version on Curseforge and Twitch is v0.3.4.
-Next version will be v0.9.4 which will give a few items AOE effects. This will be released on Saturday 18th August 2018 and will be the final update for 1.12.2 (subject to change).**
+**Current version on Curseforge and Twitch is v0.9.4.
+This is the final release for Minecraft 1.12, Now awaiting for 1.13!**
 
 ## So what is this repository for?
 
