@@ -13,7 +13,7 @@ are any mod conflicts I am unaware of. So some general guidelines for this repos
 ### If the game crashes on start up.
 
 If your game is crashing on start up, it's most-likely to be your end and not mine. Please make sure you have
-a stable release of Forge installed and not using forge before Bluid 1.12.2-14.23.0.2486, the most stable release
+a stable release of Forge installed and not using forge before Build 1.12.2-14.23.0.2486, the most stable release
 is listed for Build 1.12.2 - 14.23.4.2705 but the lastest version is fine as well. Also make sure you are using an 
 up-to-date version of Java 8 - and not before, don't have Java 6 installed.
 
